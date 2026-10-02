@@ -1,0 +1,121 @@
+part_number,category,supplier_id,unit_cost_aud,demand_pattern,lead_time_mean_wks,lead_time_sd_wks,kanban_container_qty,legacy_reorder_point
+PN-10001,Sealants & paint,SUP-008,73.93,smooth,4.66,0.43,48,434
+PN-10002,Fasteners,SUP-014,0.79,erratic,3.85,1.27,280,1856
+PN-10003,Tooling & cutting,SUP-003,38.08,smooth,5.83,1.23,28,264
+PN-10004,Vacuum bagging consumables,SUP-004,8.05,intermittent,3.72,0.77,200,2059
+PN-10005,Carbon fibre prepreg,SUP-022,306.92,smooth,6.13,1.86,26,154
+PN-10006,PPE & shop consumables,SUP-006,5.26,erratic,1.84,0.48,80,211
+PN-10007,Sealants & paint,SUP-022,104.14,intermittent,3.92,0.35,19,126
+PN-10008,Sealants & paint,SUP-015,116.65,smooth,6.81,1.08,60,668
+PN-10009,Resin & adhesives,SUP-007,97.51,smooth,4.22,0.83,80,551
+PN-10010,Fasteners,SUP-036,5.4,intermittent,5.59,0.92,2410,24328
+PN-10011,Fasteners,SUP-038,4.09,smooth,6.73,1.02,740,5923
+PN-10012,PPE & shop consumables,SUP-010,1.44,smooth,1.54,0.37,540,2415
+PN-10013,Vacuum bagging consumables,SUP-038,3.51,erratic,4.92,1.06,110,2096
+PN-10014,Tooling & cutting,SUP-001,27.79,erratic,2.49,0.54,8,38
+PN-10015,Fasteners,SUP-018,3.17,intermittent,6.58,1.84,210,1673
+PN-10016,Resin & adhesives,SUP-005,348.64,smooth,6.44,1.67,30,191
+PN-10017,Vacuum bagging consumables,SUP-029,4.54,smooth,3.67,0.92,450,4694
+PN-10018,Carbon fibre prepreg,SUP-006,353.36,erratic,11.6,3.45,37,536
+PN-10019,Tooling & cutting,SUP-014,123.42,smooth,5.32,1.57,4,38
+PN-10020,Vacuum bagging consumables,SUP-022,11.33,erratic,3.24,0.59,610,3551
+PN-10021,Sealants & paint,SUP-034,83.85,smooth,3.99,0.57,90,369
+PN-10022,Fasteners,SUP-033,0.7,erratic,3.73,1.13,190,1694
+PN-10023,PPE & shop consumables,SUP-022,1.54,smooth,1.85,0.23,300,4085
+PN-10024,Tooling & cutting,SUP-001,17.41,smooth,4.36,1.15,7,47
+PN-10025,Sealants & paint,SUP-036,45.11,intermittent,6.4,0.59,25,431
+PN-10026,Resin & adhesives,SUP-010,96.3,smooth,4.25,0.77,28,146
+PN-10027,Honeycomb core,SUP-033,141.33,smooth,10.62,1.13,21,278
+PN-10028,Carbon fibre prepreg,SUP-037,870.89,erratic,9.85,2.86,18,417
+PN-10029,Resin & adhesives,SUP-010,165.89,intermittent,6.31,1.16,29,372
+PN-10030,Vacuum bagging consumables,SUP-011,2.98,smooth,2.7,0.48,220,1522
+PN-10031,Sealants & paint,SUP-035,45.92,erratic,4.19,1.41,42,262
+PN-10032,PPE & shop consumables,SUP-020,2.67,intermittent,2.96,0.88,200,993
+PN-10033,Fasteners,SUP-037,3.74,erratic,4.01,1.07,560,2441
+PN-10034,Fasteners,SUP-006,3.52,erratic,3.42,1.14,160,1884
+PN-10035,Honeycomb core,SUP-004,561.58,erratic,9.91,2.92,21,169
+PN-10036,Resin & adhesives,SUP-011,183.79,erratic,4.86,1.13,13,79
+PN-10037,Resin & adhesives,SUP-006,145.24,erratic,8.0,1.7,28,321
+PN-10038,Honeycomb core,SUP-038,145.5,smooth,9.29,1.79,6,49
+PN-10039,Resin & adhesives,SUP-022,214.38,intermittent,7.81,1.2,16,243
+PN-10040,Vacuum bagging consumables,SUP-013,3.14,intermittent,3.31,0.61,140,405
+PN-10041,Fasteners,SUP-001,2.9,erratic,5.4,0.98,3160,16378
+PN-10042,Tooling & cutting,SUP-029,192.97,intermittent,4.55,0.51,7,29
+PN-10043,Vacuum bagging consumables,SUP-013,14.25,smooth,4.48,0.72,80,592
+PN-10044,Fasteners,SUP-018,1.31,erratic,3.55,1.24,2810,14088
+PN-10045,Tooling & cutting,SUP-025,32.15,smooth,6.0,1.56,46,494
+PN-10046,Sealants & paint,SUP-004,132.16,smooth,3.57,1.03,11,95
+PN-10047,Fasteners,SUP-040,9.03,smooth,3.03,0.28,1160,5379
+PN-10048,Fasteners,SUP-033,1.07,smooth,7.0,2.32,2170,19082
+PN-10049,Vacuum bagging consumables,SUP-022,14.75,smooth,2.61,0.3,610,2587
+PN-10050,Resin & adhesives,SUP-030,198.25,smooth,7.67,1.01,35,430
+PN-10051,Resin & adhesives,SUP-009,230.7,erratic,4.27,1.05,30,416
+PN-10052,Carbon fibre prepreg,SUP-036,563.96,smooth,7.1,2.45,10,117
+PN-10053,Sealants & paint,SUP-017,107.16,erratic,3.58,1.2,38,265
+PN-10054,Vacuum bagging consumables,SUP-024,14.82,intermittent,2.45,0.53,350,885
+PN-10055,Vacuum bagging consumables,SUP-032,7.77,smooth,2.83,0.46,100,1013
+PN-10056,Sealants & paint,SUP-025,81.2,smooth,3.87,0.92,26,320
+PN-10057,Fasteners,SUP-024,0.56,smooth,4.13,0.97,610,4877
+PN-10058,Vacuum bagging consumables,SUP-029,12.78,smooth,4.36,1.0,360,3453
+PN-10059,Resin & adhesives,SUP-035,196.76,erratic,7.68,2.45,27,241
+PN-10060,Carbon fibre prepreg,SUP-021,415.84,smooth,11.02,2.35,18,406
+PN-10061,Vacuum bagging consumables,SUP-030,2.46,smooth,2.84,0.48,410,4389
+PN-10062,Honeycomb core,SUP-013,396.55,intermittent,10.28,1.86,3,49
+PN-10063,Vacuum bagging consumables,SUP-017,11.17,smooth,4.88,1.7,140,766
+PN-10064,Sealants & paint,SUP-013,89.6,smooth,5.56,0.46,40,560
+PN-10065,Vacuum bagging consumables,SUP-009,8.99,smooth,4.51,1.56,130,1126
+PN-10066,Vacuum bagging consumables,SUP-034,34.04,smooth,3.18,0.32,140,550
+PN-10067,Vacuum bagging consumables,SUP-026,6.92,smooth,2.54,0.83,140,1577
+PN-10068,Fasteners,SUP-010,1.26,erratic,5.47,0.56,510,5664
+PN-10069,Carbon fibre prepreg,SUP-029,699.71,erratic,10.02,2.87,12,306
+PN-10070,Fasteners,SUP-015,2.78,intermittent,5.41,1.56,640,4099
+PN-10071,Resin & adhesives,SUP-034,156.33,erratic,8.25,1.42,50,474
+PN-10072,Fasteners,SUP-022,0.7,intermittent,6.15,0.79,460,6059
+PN-10073,Tooling & cutting,SUP-023,25.09,intermittent,3.79,0.62,6,28
+PN-10074,Resin & adhesives,SUP-001,101.68,erratic,8.91,2.2,34,550
+PN-10075,Carbon fibre prepreg,SUP-003,613.04,erratic,11.78,3.43,47,603
+PN-10076,Fasteners,SUP-005,5.13,erratic,6.27,2.14,900,5881
+PN-10077,Fasteners,SUP-021,1.25,erratic,4.73,0.54,690,11984
+PN-10078,Vacuum bagging consumables,SUP-032,8.12,smooth,4.93,0.94,1120,8029
+PN-10079,Vacuum bagging consumables,SUP-003,2.55,intermittent,4.77,1.44,160,2385
+PN-10080,Sealants & paint,SUP-015,27.37,erratic,5.85,1.69,25,164
+PN-10081,Vacuum bagging consumables,SUP-018,16.6,smooth,2.7,0.67,750,3553
+PN-10082,Fasteners,SUP-001,2.57,smooth,5.01,1.61,1300,9138
+PN-10083,Sealants & paint,SUP-018,38.86,smooth,6.41,1.03,80,570
+PN-10084,Resin & adhesives,SUP-016,101.06,smooth,4.42,0.76,60,308
+PN-10085,Carbon fibre prepreg,SUP-008,660.15,smooth,8.45,0.99,43,398
+PN-10086,Carbon fibre prepreg,SUP-040,556.12,smooth,11.49,2.46,13,279
+PN-10087,Sealants & paint,SUP-036,49.26,smooth,3.07,0.62,19,88
+PN-10088,Honeycomb core,SUP-014,236.06,erratic,8.7,1.37,26,165
+PN-10089,Resin & adhesives,SUP-025,93.72,intermittent,6.65,1.86,20,237
+PN-10090,Honeycomb core,SUP-027,194.29,smooth,6.78,2.14,5,48
+PN-10091,Resin & adhesives,SUP-024,174.09,erratic,6.19,1.29,62,490
+PN-10092,Vacuum bagging consumables,SUP-027,20.59,erratic,2.56,0.59,430,3984
+PN-10093,Fasteners,SUP-030,3.98,erratic,5.16,0.46,3260,26229
+PN-10094,Fasteners,SUP-005,0.57,smooth,5.28,1.16,300,3470
+PN-10095,Fasteners,SUP-040,0.59,smooth,3.3,0.89,190,2483
+PN-10096,Vacuum bagging consumables,SUP-013,6.18,smooth,2.34,0.73,110,1902
+PN-10097,Fasteners,SUP-022,2.51,smooth,5.16,1.5,920,6608
+PN-10098,Carbon fibre prepreg,SUP-011,302.47,smooth,10.1,1.43,10,129
+PN-10099,Carbon fibre prepreg,SUP-013,804.61,smooth,10.27,1.24,5,117
+PN-10100,PPE & shop consumables,SUP-006,15.68,smooth,1.09,0.12,60,157
+PN-10101,Tooling & cutting,SUP-022,28.7,erratic,5.4,0.44,28,252
+PN-10102,Vacuum bagging consumables,SUP-025,3.19,intermittent,2.76,0.91,500,5912
+PN-10103,Fasteners,SUP-005,3.4,smooth,7.07,1.17,3120,22230
+PN-10104,PPE & shop consumables,SUP-025,1.91,smooth,1.23,0.11,120,748
+PN-10105,Sealants & paint,SUP-005,25.9,erratic,5.83,1.63,16,172
+PN-10106,Vacuum bagging consumables,SUP-036,10.94,smooth,4.08,0.52,110,890
+PN-10107,Fasteners,SUP-023,11.69,smooth,7.97,1.89,130,2333
+PN-10108,Fasteners,SUP-036,8.21,erratic,4.37,0.41,850,6073
+PN-10109,Carbon fibre prepreg,SUP-034,289.27,intermittent,6.11,1.47,17,391
+PN-10110,Tooling & cutting,SUP-035,29.64,erratic,3.58,0.94,28,174
+PN-10111,Fasteners,SUP-002,3.03,intermittent,5.1,1.12,700,9817
+PN-10112,Resin & adhesives,SUP-032,160.98,smooth,8.45,1.58,25,244
+PN-10113,Fasteners,SUP-010,0.8,smooth,4.0,1.25,3200,14236
+PN-10114,Vacuum bagging consumables,SUP-009,7.67,intermittent,3.14,0.69,590,1735
+PN-10115,Resin & adhesives,SUP-035,240.18,erratic,4.52,1.47,56,293
+PN-10116,Tooling & cutting,SUP-032,19.61,erratic,2.09,0.72,7,41
+PN-10117,Sealants & paint,SUP-016,95.02,smooth,4.28,1.05,80,772
+PN-10118,Vacuum bagging consumables,SUP-017,11.2,smooth,2.59,0.47,690,3284
+PN-10119,Fasteners,SUP-008,0.76,erratic,4.7,1.59,220,2121
+PN-10120,Vacuum bagging consumables,SUP-004,17.28,smooth,2.61,0.34,690,4195
